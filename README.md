@@ -1,4 +1,4 @@
-# Excel_file_parser
+# Live HTML Editor
 This is a Live HTML Editor written in Python 
 
 I am using the sun valley ttk theme from https://github.com/rdbende/Sun-Valley-ttk-theme
