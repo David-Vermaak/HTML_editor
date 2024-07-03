@@ -17,6 +17,6 @@ Then run this command in the termainal (within the project folder)
 Make sure that the path of the sv_ttk dependency is correct. (replace USERNAME)
 
 ```bash
-pyinstaller -w -F -i "email.ico" --add-data "C:\Users\USERNAME\Desktop\eft-emails\sv_ttk;sv_ttk" main.py
+pyinstaller -w -F -i "email.ico" --add-data "C:\Users\USERNAME\Desktop\HTML_editor\sv_ttk;sv_ttk" main.py
 ```
 
